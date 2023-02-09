@@ -1,2 +1,2 @@
 #1/bin/bash
-chmod -R +111 */
+chmod --reference=olleh hello
